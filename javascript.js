@@ -17,4 +17,5 @@ else if(média==10){
 }
 else {
     document.writeln('Nota Inválida')
+
 }
